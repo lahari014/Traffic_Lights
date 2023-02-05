@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.background {
+  background-color: #86d2f2;
+  text-align: center;
+  color: #1f1d41;
+  font-family: "Roboto";
+  padding: 20px;
+  height: 100%;
+  background-size: cover;
+}
+
+.card {
+  background-color: #1f1d41;
+  border-radius: 20px;
+  margin: 10px;
+  text-align: center;
+  height: 300px;
+  padding: 10px;
+  width: 82px;
+}
+
+#stopLight {
+  border-radius: 100px;
+  background-color: #4b5069;
+  height: 50px;
+  width: 45px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+
+#readyLight {
+  border-radius: 100px;
+  background-color: #4b5069;
+  height: 50px;
+  width: 45px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+
+#goLight {
+  border-radius: 100px;
+  background-color: #4b5069;
+  height: 50px;
+  width: 45px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+#stopButton {
+  border-radius: 10px;
+  background-color: #1f1d41;
+  color: white;
+  padding: 10px;
+  margin: 25px;
+}
+
+#readyButton {
+  border-radius: 10px;
+  background-color: #1f1d41;
+  color: white;
+  padding: 10px;
+  margin: 25px;
+}
+
+#goButton {
+  border-radius: 10px;
+  background-color: #1f1d41;
+  color: white;
+  padding: 10px;
+  margin: 25px;
+}
